@@ -1,0 +1,17 @@
+{
+    "name": "cocteil/backend",
+    "autoload": {
+        "psr-4": {
+            "Cocteil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Malykhin",
+            "email": "alexander.malykhin@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.5"
+    }
+}
